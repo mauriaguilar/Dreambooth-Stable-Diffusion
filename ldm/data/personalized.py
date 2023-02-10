@@ -8,7 +8,7 @@ from torchvision import transforms
 import random
 
 training_templates_smallest = [
-    'joepenna {}',
+    'meuri {}',
 ]
 
 reg_templates_smallest = [
@@ -49,6 +49,7 @@ class PersonalizedBase(Dataset):
 
         self.image_paths = [os.path.join(
             self.data_root, file_path) for file_path in os.listdir(self.data_root)]
+        print("PATHS:", self.image_paths)
 
         # self._length = len(self.image_paths)
         self.num_images = len(self.image_paths)
