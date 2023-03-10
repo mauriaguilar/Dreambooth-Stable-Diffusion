@@ -1,0 +1,18 @@
+total 27M
+-rwxrwxr-- 1 mau mau 967K feb 10 16:16 cuerpo1.jpeg
+-rwxrwxr-- 1 mau mau 1,5M feb 10 16:16 cuerpo2.jpg
+-rwxrwxr-- 1 mau mau  12M feb 10 16:16 cuerpo3.jpg
+-rwxrwxr-- 1 mau mau 154K feb 10 16:16 face1.jpeg
+-rwxrwxr-- 1 mau mau 168K feb 10 16:16 face2.jpeg
+-rwxrwxr-- 1 mau mau 1,6M feb 10 16:16 face3.jpg
+-rwxrwxr-- 1 mau mau 2,6M feb 10 16:16 face4.jpg
+-rwxrwxr-- 1 mau mau 1,7M feb 10 16:16 face5.jpg
+-rwxrwxr-- 1 mau mau 195K feb 10 16:16 face6.jpg
+-rwxrwxr-- 1 mau mau 168K feb 10 16:16 face7.jpeg
+-rwxrwxr-- 1 mau mau 2,9M feb 10 16:16 mediocuerpo1.jpeg
+-rwxrwxr-- 1 mau mau 424K feb 10 16:16 mediocuerpo2.jpg
+-rwxrwxr-- 1 mau mau 462K feb 10 16:16 mediocuerpo3.jpg
+-rwxrwxr-- 1 mau mau 1,3M feb 10 16:16 mediocuerpo4.jpg
+-rwxrwxr-- 1 mau mau  68K feb 10 16:16 mediocuerpo5.jpeg
+-rwxrwxr-- 1 mau mau 949K feb 10 16:16 mediocuerpo6.jpeg
+-rwxrwxr-- 1 mau mau 527K feb 10 16:16 mediocuerpo7.JPG
